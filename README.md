@@ -1,4 +1,4 @@
 # hello-world
 My first repository in Github
 
-I like :pizza:.
+I like :pizza:, play game.
